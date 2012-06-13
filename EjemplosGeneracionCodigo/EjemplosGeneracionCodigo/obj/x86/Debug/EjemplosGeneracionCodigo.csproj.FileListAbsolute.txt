@@ -1,8 +1,0 @@
-C:\LiberKey\MyDocuments\Dropbox\Prog\cSharp\EjemplosGeneracionCodigo\EjemplosGeneracionCodigo\EjemplosGeneracionCodigo\bin\Debug\EjemplosGeneracionCodigo.exe
-C:\LiberKey\MyDocuments\Dropbox\Prog\cSharp\EjemplosGeneracionCodigo\EjemplosGeneracionCodigo\EjemplosGeneracionCodigo\bin\Debug\EjemplosGeneracionCodigo.pdb
-C:\LiberKey\MyDocuments\Dropbox\Prog\cSharp\EjemplosGeneracionCodigo\EjemplosGeneracionCodigo\EjemplosGeneracionCodigo\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\LiberKey\MyDocuments\Dropbox\Prog\cSharp\EjemplosGeneracionCodigo\EjemplosGeneracionCodigo\EjemplosGeneracionCodigo\obj\x86\Debug\EjemplosGeneracionCodigo.MainForm.resources
-C:\LiberKey\MyDocuments\Dropbox\Prog\cSharp\EjemplosGeneracionCodigo\EjemplosGeneracionCodigo\EjemplosGeneracionCodigo\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\LiberKey\MyDocuments\Dropbox\Prog\cSharp\EjemplosGeneracionCodigo\EjemplosGeneracionCodigo\EjemplosGeneracionCodigo\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\LiberKey\MyDocuments\Dropbox\Prog\cSharp\EjemplosGeneracionCodigo\EjemplosGeneracionCodigo\EjemplosGeneracionCodigo\obj\x86\Debug\EjemplosGeneracionCodigo.exe
-C:\LiberKey\MyDocuments\Dropbox\Prog\cSharp\EjemplosGeneracionCodigo\EjemplosGeneracionCodigo\EjemplosGeneracionCodigo\obj\x86\Debug\EjemplosGeneracionCodigo.pdb
